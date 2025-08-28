@@ -1,6 +1,6 @@
 
 # Set the minimum version of cmake required to 2.6
-cmake_minimum_required( VERSION 3.0 )
+cmake_minimum_required( VERSION 3.18 )
 project(Netgen VERSION 4.9.11 LANGUAGES C CXX)
 
 SET( PROJECT_NAMESPACE_PREFIX NETGEN )
